@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/merkatorgis/docker4gis.git"
   },
-  "author": "Merkator B.V.",
+  "author": "docker4gis",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
     "url": "https://github.com/merkatorgis/docker4gis/issues"
