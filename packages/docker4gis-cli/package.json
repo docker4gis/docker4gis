@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/merkatorgis/docker4gis.git"
+    "url": "git+https://github.com/docker4gis/docker4gis.git"
   },
   "author": "Merkator B.V.",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
-    "url": "https://github.com/merkatorgis/docker4gis/issues"
+    "url": "https://github.com/docker4gis/docker4gis/issues"
   },
-  "homepage": "https://github.com/merkatorgis/docker4gis#readme",
+  "homepage": "https://github.com/docker4gis/docker4gis#readme",
   "scripts": {
     "test": "tests/run.sh"
   },
